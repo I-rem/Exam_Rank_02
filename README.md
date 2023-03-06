@@ -4,4 +4,4 @@ Practice questions and solutions for the first exam of the main curriculum at Sc
 Reviewing libft (including the bonus part) will be helpful for this exam.
 ## Things to keep in mind
 - There is no Norminette
-- You need 100 (full score) to pass
+- You need 100/100 points to pass
