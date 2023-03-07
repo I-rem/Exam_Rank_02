@@ -1,3 +1,5 @@
+# Subject
+
 > Assignment name  : first_word  
 Expected files   : first_word.c
 Allowed functions: write
@@ -20,6 +22,8 @@ $ <br> <br>
 $> ./first_word "  lorem,ipsum  " | cat -e <br>
 lorem,ipsum$ <br>
 $> <br> <br>
+
+# Code
 
 ``` 
   #include <unistd.h>
