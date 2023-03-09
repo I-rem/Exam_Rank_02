@@ -34,5 +34,7 @@ int main(int argc, char **argv)
 			j++;
 		}
 	}
+	else
+		write(1, "\n", 1);
 	return (0);
 }
